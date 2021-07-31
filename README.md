@@ -1,2 +1,3 @@
-# GD50-Flappy-Bird
-[2021] Harvard CS50 Game - Flappy Bird Game Project
+# GD50 Harvard - Flappy Bird Game Project
+
+[Updating] Please stay tuned!
